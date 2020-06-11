@@ -1,0 +1,10 @@
+--- !ruby/object:Game
+hidden_word: Mongol
+progress:
+- M
+- _
+- _
+- _
+- _
+- _
+wrong_guesses: 14
